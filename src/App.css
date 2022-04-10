@@ -1,0 +1,8 @@
+#sidenav div{
+    right: -175px;
+    transition: 0.25s;
+}
+
+#sidenav div span{
+    display: none;
+}
